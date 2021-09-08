@@ -18,3 +18,5 @@
 7. Reporting, untuk menampilkan data sasaran mutu setiap bulan berdasarkan hasil order kerja.
 8. Administrator, untuk mengatur akses pengguna.
 
+## Dokumentasi
+[DOKUMENTASI SISTEM INFOMASI TEKNIK.pdf](https://github.com/indahmustika/documentation-siteknik/files/7129830/DOKUMENTASI.SISTEM.INFOMASI.TEKNIK.pdf)
