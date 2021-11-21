@@ -9,7 +9,7 @@
 - Memudahkan komunikasi antara pegawai melalui data dalam sistem.
 
 ## Modul
-- Order Kerja, untuk mengelola data order kerja yang masuk.
+- Order Kerja, untuk mengelola data order kerja atau kerusakan mesin yang masuk.
 - Laporan Harian, untuk mengelola data laporan harian berdasarkan data order kerja atau data maintenance.
 - Serah Terima, untuk memasukkan data serah terima sebagai tanda selesainya order kerja.
 - Checklist Mesin, untuk menyimpan checklist setiap mesin yang kemudian digunakan pada saat maintenance.
